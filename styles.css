@@ -109,6 +109,61 @@ body {
     background-color: greenyellow;
 }
 
+.viper1 {
+    padding: 10px 0;
+    background-color: #E1E2E6;
+    position: relative;
+}
+
+.viper1-content {
+    text-align: center;
+}
+
+.viper1-content h2{
+    font-size: 55px;
+    line-height: 70px;
+    color: #323337;
+    text-transform: uppercase;
+    padding: 0 250px;
+    margin-bottom: 15px;
+}
+
+.txt-p {
+    font-size: 16px;
+    color: #414247;
+    padding: 0 250px;
+    margin-bottom: 35px;
+}
+
+.viper1-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.viper1-1 {
+    padding:0 25px;
+
+}
+
+.viper1-1 img {
+    width: 200px;
+}
+
+.viper1-img {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+
+.viper1-1 h3 {
+    color: #323337;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+
 
 
 
