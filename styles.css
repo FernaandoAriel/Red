@@ -163,6 +163,58 @@ body {
     margin-bottom: 15px;
 }
 
+.service {
+    background-image: linear-gradient(
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7)),
+        /*IMAGEN DE BANNER*/
+        url();
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        padding: 10px 0;
+}
+
+.service-content {
+    text-align: center;
+}
+
+.service-content h2 {
+    font-size: 55px;
+    line-height: 70px;
+    color: #f9fafc;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+.service-content p {
+    font-size: 16px;
+    color: #c5c5c5;
+    margin-bottom: 50px;
+    padding: 0 100px;
+}
+
+.service-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.service-1 {
+    padding: 0 100px;
+}
+
+.service-1 img {
+    width: 25px;
+    margin-bottom: 15px;
+}
+
+.service-1 h3 {
+    color: #eaccb3;
+    font-size: 10px;
+}
+
 
 
 
