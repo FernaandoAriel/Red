@@ -19,10 +19,10 @@ body {
 
 .header {
     background-image: linear-gradient(
-        rgba(0,0,0,0,7),
-        rgba(0,0,0,7)),
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7)),
         /*IMAGEN DE BANNER*/
-        url();
+        url(img/banner\ 1.jpg);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -47,12 +47,12 @@ body {
     font-weight: 800;
 }
 
-.menu-navbar ul li {
+.menu .navbar ul li {
     position: relative;
     float: left;
 }
 
-.menu-navbar ul li a{
+.menu .navbar ul li a{
     font-size: 18px;
     padding: 20px;
     color: #FFFDFC;
@@ -60,7 +60,7 @@ body {
     font-weight: 600;
 }
 
-.menu-navbar ul li a:hover{
+.menu .navbar ul li a:hover{
     color:green;
 
 }
@@ -168,7 +168,7 @@ body {
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
         /*IMAGEN DE BANNER*/
-        url();
+        url(https://i.pinimg.com/736x/44/48/57/444857f62bb985d98c545d1eb5f8d9a0.jpg);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -211,7 +211,7 @@ body {
 }
 
 .services-1 h3 {
-    color: #eaccb3;
+    color: #FFFDFC;
     font-size: 10px;
 }
 
