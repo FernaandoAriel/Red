@@ -227,7 +227,7 @@ body {
 
 .general-2 {
     /*IMAGEN DE DERECHA*/
-    background-image: url();
+    background-image: url(img/rompecabezas.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -236,7 +236,7 @@ body {
 
 .general-3 {
     /*IMAGEN DE IZQUIERDA*/
-    background-image: url();
+    background-image: url(img/vr.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
