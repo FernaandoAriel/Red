@@ -210,8 +210,9 @@ body {
 }
 
 .services-1 img {
-    width: 25px;
+    width: 200px;
     margin-bottom: 15px;
+    border-radius: 40px;
 }
 
 .services-1 h3 {
