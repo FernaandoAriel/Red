@@ -26,7 +26,7 @@ body {
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
         /*IMAGEN DE BANNER*/
-        url(img/banner\ 1.jpg);
+        url(img/Banner-2.jpg);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -104,7 +104,7 @@ body {
 .btn-1 {
     display: inline-block;
     padding: 11px 35px;
-    background-color: green;
+    background-color: rgb(128, 9, 0);
     color: #f9fafc;
     text-transform: uppercase;
 }
@@ -115,13 +115,15 @@ body {
 
 .viper1 {
     padding: 10px 0;
-    background-color: #E1E2E6;
+    background-color: #FFFDFC;
     position: relative;
 }
 
 .viper1-content {
     text-align: center;
 }
+
+
 
 .viper1-content h2{
     font-size: 55px;
@@ -147,7 +149,11 @@ body {
 
 .viper1-1 {
     padding:0 25px;
+}
 
+.TEXTOfONDO {
+    background-image:url('https://enertedingenieria.com.co/wp-content/uploads/2024/02/Cableado-vertical-backbone.jpg'); 
+    color: #FFF;
 }
 
 .viper1-1 img {
@@ -174,6 +180,14 @@ body {
         /*IMAGEN DE BANNER*/
         url(https://i.pinimg.com/736x/44/48/57/444857f62bb985d98c545d1eb5f8d9a0.jpg);
         background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        padding: 10px 0;
+}
+
+.laboratorio {
+    background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
@@ -232,7 +246,7 @@ body {
 
 .general-2 {
     /*IMAGEN DE DERECHA*/
-    background-image: url(img/rompecabezas.jpeg);
+    background-image: url(img/componentesactivos.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -241,7 +255,43 @@ body {
 
 .general-3 {
     /*IMAGEN DE IZQUIERDA*/
-    background-image: url(img/vr.jpg);
+    background-image: url(img/cableadohorizontal.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+
+.general-4 {
+    /*IMAGEN DE DERECHA*/
+    background-image: url(img/cableftp.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+
+.general-5 {
+    /*IMAGEN DE IZQUIERDA*/
+    background-image: url(img/cableutp.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+
+.general-6 {
+    /*IMAGEN DE DERECHA*/
+    background-image: url(img/cablestp.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+
+.general-7 {
+    /*IMAGEN DE IZQUIERDA*/
+    background-image: url(img/fibraopticaa.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -290,6 +340,7 @@ p {
 .footer {
     padding: 100px 0;
     background-color: #000000 !important; 
+    font-size: 200px;
 }
 
 .footer-content {
